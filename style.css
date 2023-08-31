@@ -66,6 +66,10 @@ button{
     border-radius: 5px;
     cursor: pointer;
 }
+button:hover{
+    background: linear-gradient(to right,rgba(255,0,237,1),rgb(136, 22, 251));
+    
+}
 .time-container
 {
     height: 100px;
